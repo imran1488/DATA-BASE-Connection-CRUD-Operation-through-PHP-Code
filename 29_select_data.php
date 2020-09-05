@@ -1,3 +1,6 @@
+
+<!-----This is a modified File in Nil repo ------>
+
 <?php
 // Connecting to the Database
 $servername = "localhost";
