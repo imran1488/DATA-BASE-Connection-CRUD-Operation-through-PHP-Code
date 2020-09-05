@@ -208,3 +208,10 @@ else{
     </script>
   </body>
 </html>
+
+ $('#editModal').modal('toggle');
+        })
+      })
+    </script>
+  </body>
+</html>
